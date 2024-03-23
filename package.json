@@ -1,6 +1,6 @@
 {
   "name": "@jshomee/js-public",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "description": "Description for js-public",
   "main": "src/index.js",
   "scripts": {
@@ -17,6 +17,15 @@
   "license": "ISC",
   "dependencies": {
     "@movexl/manage-github-repo": "^1.0.0",
-    "@jshomee/js-nft": "^1.0.0"
+    "@jshomee/js-nft": "^1.0.0",
+    "@jshomee/js-learn": "^1.0.0",
+    "@jshomee/js-lint": "^1.0.0",
+    "@jshomee/js-privacy": "^1.0.0",
+    "@jshomee/js-tps": "^1.0.0",
+    "@jshomee/js-ai": "^1.0.0",
+    "@jshomee/js-rwa": "^1.0.0",
+    "@jshomee/js-fakeai": "^1.0.0",
+    "@jshomee/js-dex": "^1.0.0",
+    "@jshomee/js-loan": "^1.0.0"
   }
 }
