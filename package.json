@@ -1,6 +1,6 @@
 {
   "name": "@jshomee/js-public",
-  "version": "1.0.46",
+  "version": "1.0.47",
   "description": "Description for js-public",
   "main": "src/index.js",
   "scripts": {
